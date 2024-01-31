@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'EatMoreVegetable' in project 'EatMoreVegetable' (no dependencies)
+Target 'EatMoreVegetable' in project 'EatMoreVegetable' (no dependencies)

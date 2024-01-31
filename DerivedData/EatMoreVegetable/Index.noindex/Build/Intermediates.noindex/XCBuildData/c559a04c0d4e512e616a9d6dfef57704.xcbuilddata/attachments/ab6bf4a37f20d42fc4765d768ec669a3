@@ -1,0 +1,27 @@
+{
+  "" : {
+    "dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/CoreDataAppEatMoreVegetable/DerivedData/EatMoreVegetable/Index.noindex/Build/Intermediates.noindex/EatMoreVegetable.build/Debug-iphoneos/EatMoreVegetable.build/Objects-normal/arm64/EatMoreVegetable-master.d",
+    "diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/CoreDataAppEatMoreVegetable/DerivedData/EatMoreVegetable/Index.noindex/Build/Intermediates.noindex/EatMoreVegetable.build/Debug-iphoneos/EatMoreVegetable.build/Objects-normal/arm64/EatMoreVegetable-master.dia",
+    "emit-module-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/CoreDataAppEatMoreVegetable/DerivedData/EatMoreVegetable/Index.noindex/Build/Intermediates.noindex/EatMoreVegetable.build/Debug-iphoneos/EatMoreVegetable.build/Objects-normal/arm64/EatMoreVegetable-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/muhammadwasiq/Desktop/Wasiq/CoreDataAppEatMoreVegetable/DerivedData/EatMoreVegetable/Index.noindex/Build/Intermediates.noindex/EatMoreVegetable.build/Debug-iphoneos/EatMoreVegetable.build/Objects-normal/arm64/EatMoreVegetable-master-emit-module.dia",
+    "swift-dependencies" : "/Users/muhammadwasiq/Desktop/Wasiq/CoreDataAppEatMoreVegetable/DerivedData/EatMoreVegetable/Index.noindex/Build/Intermediates.noindex/EatMoreVegetable.build/Debug-iphoneos/EatMoreVegetable.build/Objects-normal/arm64/EatMoreVegetable-master.swiftdeps"
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/CoreDataAppEatMoreVegetable/DerivedData/EatMoreVegetable/Index.noindex/Build/Intermediates.noindex/EatMoreVegetable.build/Debug-iphoneos/EatMoreVegetable.build/DerivedSources/CoreDataGenerated/Datamodel/Datamodel+CoreDataModel.swift" : {
+
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/CoreDataAppEatMoreVegetable/DerivedData/EatMoreVegetable/Index.noindex/Build/Intermediates.noindex/EatMoreVegetable.build/Debug-iphoneos/EatMoreVegetable.build/DerivedSources/CoreDataGenerated/Datamodel/Food+CoreDataClass.swift" : {
+
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/CoreDataAppEatMoreVegetable/DerivedData/EatMoreVegetable/Index.noindex/Build/Intermediates.noindex/EatMoreVegetable.build/Debug-iphoneos/EatMoreVegetable.build/DerivedSources/CoreDataGenerated/Datamodel/Food+CoreDataProperties.swift" : {
+
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/CoreDataAppEatMoreVegetable/DerivedData/EatMoreVegetable/Index.noindex/Build/Intermediates.noindex/EatMoreVegetable.build/Debug-iphoneos/EatMoreVegetable.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/CoreDataAppEatMoreVegetable/EatMoreVegetable/AppDelegate.swift" : {
+
+  },
+  "/Users/muhammadwasiq/Desktop/Wasiq/CoreDataAppEatMoreVegetable/EatMoreVegetable/ViewController.swift" : {
+
+  }
+}

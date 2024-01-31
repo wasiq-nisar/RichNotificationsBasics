@@ -1,0 +1,65 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "081dac2b4d497dc36865e42c1a8439f62c27cef56100dd48a3b5e7531d8cd521"
+    }
+  ],
+  "containerPath" : "/Users/muhammadwasiq/Desktop/Wasiq/CoreDataAppEatMoreVegetable/EatMoreVegetable.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos17.0",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/muhammadwasiq/Desktop/Wasiq/CoreDataAppEatMoreVegetable/DerivedData/EatMoreVegetable/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/muhammadwasiq/Desktop/Wasiq/CoreDataAppEatMoreVegetable/DerivedData/EatMoreVegetable/Build/Products",
+      "derivedDataPath" : "/Users/muhammadwasiq/Desktop/Wasiq/CoreDataAppEatMoreVegetable/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/muhammadwasiq/Desktop/Wasiq/CoreDataAppEatMoreVegetable/DerivedData/EatMoreVegetable/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/muhammadwasiq/Desktop/Wasiq/CoreDataAppEatMoreVegetable/DerivedData/EatMoreVegetable/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/muhammadwasiq/Desktop/Wasiq/CoreDataAppEatMoreVegetable/DerivedData/EatMoreVegetable/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone14,5",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.2.1",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone14,5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "00008110-001C14D4266A401E",
+          "TARGET_DEVICE_MODEL" : "iPhone14,5",
+          "TARGET_DEVICE_OS_VERSION" : "17.2.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphoneos"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
